@@ -18,11 +18,11 @@ There’s even a chance we’ll need to swap out **SpacetimeDB** if it doesn't h
 
 - **Subscribe to the waitlist**  
   Be the first to know when the plugin is live.  
-  👉 [Join the waitlist](https://sol.bo)
+  👉 <a href="https://sol.bo" target="_blank">Join the waitlist</a>
 
 - **Check out our other work**  
   In the meantime, explore our **fully open-source pump.fun trading bot** and other performance-focused tools:  
-  🔗 [sol-bo GitHub organization](https://github.com/sol-bo)
+  🔗 <a href="https://github.com/orgs/sol-bo/repositories" target="_blank">sol-bo GitHub organization</a>
 
 ---
 
